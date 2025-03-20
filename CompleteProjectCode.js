@@ -23,6 +23,8 @@ class Contact{
 }
 
 //UC2
+var addressBook = new Array();
+
 function contactDetails(firstName,lastName,address,state,city,zipCode,email,phoneNumber){
     
     //checking duplicate
